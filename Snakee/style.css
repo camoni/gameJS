@@ -1,0 +1,53 @@
+.clear{
+    clear: both;
+}
+body{
+    width: 100%px;
+    margin: 0px auto;
+
+}
+img{
+    width: 100%;
+    height: 159px;
+}
+#main{
+    margin : 0 auto;
+    width: 800px;
+
+}
+h1{
+    text-align: center;
+    font-family: 'Dokdo', cursive;
+}
+
+p#evolution{
+    width: 350px;
+    text-transform: uppercase;
+    font-family: 'Cute Font', cursive;
+    font-size: 35px;
+    letter-spacing: 1px;
+}
+p#score{
+    float: left;
+    width: 350px;
+    text-transform: uppercase;
+    font-family: 'Cute Font', cursive;
+    font-size: 25px;
+
+}
+p#chrono{
+    width: 350px;
+    margin-right: 50px;
+    float: left;
+    text-transform: uppercase;
+    font-family: 'Cute Font', cursive;
+    font-size: 25px;
+}
+p#message{
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+}
+p{
+    margin: 0px auto;
+    text-align: center;
+}
